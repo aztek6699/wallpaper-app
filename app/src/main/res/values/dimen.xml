@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_size_10sp">10sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+
+    <dimen name="margin_top_10dp">10dp</dimen>
+    <dimen name="margin_top_15dp">15dp</dimen>
+
+    <dimen name="cardview_height">250dp</dimen>
+    <dimen name="cardview_width">200dp</dimen>
+
+</resources>

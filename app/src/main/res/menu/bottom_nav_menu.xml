@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_white_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_favourites"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorites_white_24dp"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/navigation_about"
+        android:enabled="true"
+        android:icon="@drawable/ic_about_white_24dp"
+        android:title="About" />
+</menu>
